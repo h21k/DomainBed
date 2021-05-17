@@ -17,20 +17,20 @@ ImageFile.LOAD_TRUNCATED_IMAGES = True
 DATASETS = [
     # Debug
     "Debug28",
-    "Debug224",
+    # "Debug224",
     # Small images
     "ColoredMNIST",
     "RotatedMNIST",
     # Big images
-    "VLCS",
-    "PACS",
+    # "VLCS",
+    # "PACS",
     "OfficeHome",
-    "TerraIncognita",
-    "DomainNet",
-    "SVIRO",
+    # "TerraIncognita",
+    # "DomainNet",
+    # "SVIRO",
     # WILDS datasets
-    "WILDSCamelyon",
-    "WILDSFMoW"
+    # "WILDSCamelyon",
+    # "WILDSFMoW"
 ]
 
 def get_dataset_class(dataset_name):
