@@ -16,15 +16,15 @@ ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 DATASETS = [
     # Debug
-    "Debug28",
+    # "Debug28",
     # "Debug224",
     # Small images
     "ColoredMNIST",
-    "RotatedMNIST",
+    "RotatedMNIST"
     # Big images
     # "VLCS",
     # "PACS",
-    "OfficeHome",
+    # "OfficeHome",
     # "TerraIncognita",
     # "DomainNet",
     # "SVIRO",
