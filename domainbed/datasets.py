@@ -20,7 +20,7 @@ DATASETS = [
     # "Debug224",
     # Small images
     "ColoredMNIST",
-    "RotatedMNIST"
+    #"RotatedMNIST"
     # Big images
     # "VLCS",
     # "PACS",
